@@ -1,2 +1,4 @@
 # typhonjs-core-governance
-Provides the authoritative documentation regarding TyphonJS governance.
+Provides the authoritative documentation regarding TyphonJS governance. The guiding document is a [modified version / TyphonJS-C4.1](https://github.com/typhonjs-docs/typhonjs-core-governance/blob/master/TyphonJS-C4.1.md) of the [ZeroMQ C4.1](http://rfc.zeromq.org/spec:22) Collective Code Construction Contract. This document outlines the main requirements for participation in the TyphonJS community. The [issues](https://github.com/typhonjs-docs/typhonjs-core-governance/issues) of this repo will hold any pertinent discussion and as necessary "abuse postmortems" that transparently document any problems and resolutions that occur in the larger community. 
+
+As a personal note from the initial administratior / lead [Michael Leahy @typhonrt](https://github.com/typhonrt) my hope is that everyone invokved keeps things on the "up and up" and that there are never any issues posted to this repo.
